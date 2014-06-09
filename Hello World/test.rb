@@ -1,0 +1,2 @@
+require 'helloGem'
+HelloGem.test()
